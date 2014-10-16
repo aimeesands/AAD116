@@ -16,7 +16,7 @@ I learnt from this lecture that by researching artists and designers from the pa
 
 ####Friday Seminar 
 
-In our Friday seminar we were given an introduction on two essential tools used to edit text and code with. Every Interaction designer should know what these tools are as they are very important in our field. 
+In our Friday seminar we were given an introduction on two essential tools used to edit text and code with. Every Interaction designer should know what these tools are as they are very important in our field. The tools we are now using are Atom to create Markdown Files. 
 
 ###Week 2
 =========
