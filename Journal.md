@@ -12,6 +12,8 @@ In our first AAD116 lecture we covered some ground on what we should be doing wi
 
 The designer that stood out for me was British designer Johnathan Ive as i knew a little bit about him such as he worked very closely with Steve Jobs at apple and actually came up with design of the first iMac Computer. Whenever I went to research more about him myself I soon came to realise that he has a very unique way of designing products and graphics that you can tell that it was him that designed them as they are so simple and easy to take in and also very pleasing to the eye. I found this page online ( http://jonyiveredesignsthings.tumblr.com/ )that showed examples of where Jonathan has taken something that has already been created then made it look completely different by putting his own design and branding on them which I find very insteresting. I also watched a movie recently called Steve Jobs: Billion Dollar Hippy ( http://www.imdb.com/title/tt2132457/ )which went through the process of his life and Jonathan Ive was also featured in it because of his innovative exciting design of the translucent iMac that had never happened before with a desktop computer, even though people probably thought it was strange it was interesting that you could by a computer that was a different colour than grey which gave it a sense of personality that poeple love. 
 
+Also if Jonathan Ive never had the influence or the knowledge of Dieter Rams' work then he would not of been able to create any of the apple products in the same way that he has today because of Dieters simplistic designs such as the Braun radio. 
+
 I learnt from this lecture that by researching artists and designers from the past and looking at what they have created and designed I can broaden my design skills and use their work as inspiration to create my own work and become my own brand as these people have also done. 
 
 ####Friday Seminar 
@@ -20,6 +22,11 @@ In our Friday seminar we were given an introduction on two essential tools used 
 
 ###Week 2
 =========
+
+This week we had an introduction from Tim Potter into the world of Github. We found out that Github is made up of repositories that anyone can look at and tweek if they want to. It is a good way of sharing your work and information and also shows how much effort you have been putting into your work and how often you update and create new repositories which is good to show future employeers that you are a keen learner and employee. 
+
+After signing up to Github Tim had already made a 'Personal Page' that we could fork to our own Github sites. This page was created so that each of us could personalise and change the page to suit ourselves. To personalise our Page we changed the circle avatar to an image of ourselves which is a good place to start on making it more personal to us, as we were working on a different project on creating backgrounds and wallpapers using lines and circles we thought it would be a good idea to encorporate those designs to our personal page as they would represent us and they are unique to us as we created them by ourselves, I loved this touch as it really made it feel like your own.
+
 ###Week 3
 =========
 ###Week 4
