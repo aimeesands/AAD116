@@ -33,7 +33,7 @@ First of all I researched Jessica Hische a 'letterer, illustrator and crazy cat 
 
 I loved reading what she had wrote about herself it was entertaining yet informative, I actually felt like I was having a conversation with her. I like how her approach to writing about herself was quite casual which gave me a sense of what she is like. At first when i went onto her About page it was quite daunting as it look liked there was a LOT of information but it was actually quite an easy read, although I knew that for my Personal page a few short paragraphs would be more appropriate for that kind of web page. 
 
-I research a few other designers like Tad Carpenter [I'm a link](http://tadcarpenter.com/about/), and artists that have interested me and how they promote themselves through words and imagery. 
+I research a few other designers like [Tad Carpenter](http://tadcarpenter.com/about/), and artists that have interested me and how they promote themselves through words and imagery. 
 
 ###Week 3
 =========
