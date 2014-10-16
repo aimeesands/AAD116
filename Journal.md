@@ -5,6 +5,9 @@ AAD116
 =========
 In week one of the course we had an induction on what would be expected of us and what we would be covering over the next 12 weeks within the AAD116 module which is an Introduction to Communication and design. 
 ####Friday Lecture
+In our first AAD116 lecture we covered some ground on what we should be doing within this module and what we should do to broaden our knowledge so that we can become better designers and learn from the knowledge we are taking in. 
+
+
 
 ###Week 2
 =========
