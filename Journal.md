@@ -12,7 +12,11 @@ In our first AAD116 lecture we covered some ground on what we should be doing wi
 
 The designer that stood out for me was British designer Johnathan Ive as i knew a little bit about him such as he worked very closely with Steve Jobs at apple and actually came up with design of the first iMac Computer. Whenever I went to research more about him myself I soon came to realise that he has a very unique way of designing products and graphics that you can tell that it was him that designed them as they are so simple and easy to take in and also very pleasing to the eye. I found this page online ( http://jonyiveredesignsthings.tumblr.com/ )that showed examples of where Jonathan has taken something that has already been created then made it look completely different by putting his own design and branding on them which I find very insteresting. I also watched a movie recently called Steve Jobs: Billion Dollar Hippy ( http://www.imdb.com/title/tt2132457/ )which went through the process of his life and Jonathan Ive was also featured in it because of his innovative exciting design of the translucent iMac that had never happened before with a desktop computer, even though people probably thought it was strange it was interesting that you could by a computer that was a different colour than grey which gave it a sense of personality that poeple love. 
 
+I learnt from this lecture that by researching artists and designers from the past and looking at what they have created and designed I can broaden my design skills and use their work as inspiration to create my own work and become my own brand as these people have also done. 
 
+####Friday Seminar 
+
+In our Friday seminar we were given an introduction on two essential tools used to edit text and code with. Every Interaction designer should know what these tools are as they are very important in our field. 
 
 ###Week 2
 =========
