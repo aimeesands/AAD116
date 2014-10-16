@@ -33,7 +33,12 @@ First of all I researched [Jessica Hische](http://jessicahische.is/anoversharer)
 
 I loved reading what she had wrote about herself it was entertaining yet informative, I actually felt like I was having a conversation with her. I like how her approach to writing about herself was quite casual which gave me a sense of what she is like. At first when i went onto her About page it was quite daunting as it look liked there was a LOT of information but it was actually quite an easy read, although I knew that for my Personal page a few short paragraphs would be more appropriate for that kind of web page. 
 
-I research a few other designers like [Tad Carpenter](http://tadcarpenter.com/about/), [Lauren Hom](http://www.homsweethom.com/About) Hom  and artists that have interested me and how they promote themselves through words and imagery. 
+I research a few other designers and artists like [Tad Carpenter](http://tadcarpenter.com/about/), [Lauren Hom](http://www.homsweethom.com/About), [Erik Marinovich](http://www.erikmarinovich.com/about), [Mike Kus](http://mikekus.com/about) that have interested me and how they promote themselves through words and imagery. 
+
+I realised from researching these designers and artists that most of them used a black and white photograph of themselves which is interesting, im not sure why they do that but it certainly looks good.I also like the use of imagery that is despayed in a grid like style on most of their portfolio pages. 
+
+After I had researched these designers I knew how I would like to present myself within my personal page. I didnt want to make the content too serious or difficult as I don't think that would represent who I am, instead I went for a light hearted enthusiastic approach that would make the reader/viewer laugh and have a comical effect to it as the page is supposed to make the viewer interested in me so they want to view my work and what I do. Here is a link to [My Personl Page](http://aimeesands.github.io/)
+
 
 ###Week 3
 =========
