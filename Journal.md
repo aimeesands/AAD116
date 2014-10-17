@@ -20,6 +20,10 @@ I learnt from this lecture that by researching artists and designers from the pa
 
 In our Friday seminar we were given an introduction on two essential tools used to edit text and code with. Every Interaction designer should know what these tools are as they are very important in our field. The tools we are now using are Atom to create Markdown Files. 
 
+This is the file I created using markdown. To find out more about Markdown I used this link [Markdown Help ](http://daringfireball.net/projects/markdown/basics/)
+
+![markdownfile](/images/markdownfile.png)
+
 ###Week 2
 =========
 
