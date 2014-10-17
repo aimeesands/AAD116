@@ -22,7 +22,7 @@ In our Friday seminar we were given an introduction on two essential tools used 
 
 This is the file I created using markdown. To find out more about Markdown I used this link [Markdown Help ](http://daringfireball.net/projects/markdown/basics/)
 
-![markdownfile](/images/markdownfile.png)
+![markdownfile](/images/markdown.png)
 
 ###Week 2
 =========
