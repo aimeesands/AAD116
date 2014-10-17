@@ -48,7 +48,7 @@ Erik Marinovich
 ![Erik Marinovich](/images/erikmaronvich.png)
 
 Mike Kus 
-![Mike Kus](/images/mikekys.png)
+![Mike Kus](/images/mikekus.png)
 
 I realised from researching these designers and artists that most of them used a black and white photograph of themselves which is interesting, im not sure why they do that but it certainly looks good.I also like the use of imagery that is despayed in a grid like style on most of their portfolio pages to create a strong visual impact. 
 
