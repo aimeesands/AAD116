@@ -26,11 +26,13 @@ In our Friday seminar we were given an introduction on two essential tools used 
 This week we had an introduction from Tim Potter into the world of Github. We found out that Github is made up of repositories that anyone can look at and tweek if they want to. It is a good way of sharing your work and information and also shows how much effort you have been putting into your work and how often you update and create new repositories which is good to show future employeers that you are a keen learner and employee. 
 
 After signing up to Github Tim had already made a 'Personal Page' that we could fork to our own Github sites. This page was created so that each of us could personalise and change the page to suit ourselves. To personalise our Page we changed the circle avatar to an image of ourselves which is a good place to start on making it more personal to us, as we were working on a different project on creating backgrounds and wallpapers using lines and circles we thought it would be a good idea to encorporate those designs to our personal page as they would represent us and they are unique to us as we created them by ourselves, I loved this touch as it really made it feel like your own.
+
 ![Personal Page](/images/personalpage.png)
 
 Before actually writing on my personal page I wanted to research a few other designers to see how they promote themelves as it would give me an idea or inspiration on what to write and how I would go about it. As everyone knows it seems to be difficult for poeple to write good stuff about themselves they always seem to concentrate on the bad, so i found doing this very useful. 
 
 First of all I researched [Jessica Hische](http://jessicahische.is/anoversharer) a 'letterer, illustrator and crazy cat lady known for her silly side projects and occasional foul mouth.'
+![Jesiica Hische](/images/jessicahische.png)
 
 I loved reading what she had wrote about herself it was entertaining yet informative, I actually felt like I was having a conversation with her. I like how her approach to writing about herself was quite casual which gave me a sense of what she is like. At first when i went onto her About page it was quite daunting as it look liked there was a LOT of information but it was actually quite an easy read, although I knew that for my Personal page a few short paragraphs would be more appropriate for that kind of web page. 
 
